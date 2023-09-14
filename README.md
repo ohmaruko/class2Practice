@@ -7,6 +7,6 @@ This is a quote
 - apple
 * orange
 + grape
-2 apple
-2 orange
-5 grape
+2. apple
+2. orange
+5. grape
